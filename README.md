@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey there! 👋
 
+Hi, I'm Greg!  I'm a Full Stack Web Developer with a passion for designing order and beauty on the frontend via React.js, and I also enjoy working with databases on the backend with Node.js.  
+
+- I believe in seeking the good way in life, loving your neighbor as yourself, and loving our Creator.
+- I'm also a musician and recording artist and music instructor on the side
+- I am currently finishing up my time at Lambda School, where I've learned so much about frontend, backend, and writing algorithms in Python.
+
+- 📫 How to reach me: gjwilson7390@gmail.com
 <!--
 **gregory-j-wilson/gregory-j-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
