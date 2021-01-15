@@ -4,7 +4,7 @@ Hi, I'm Greg!  I'm a Full Stack Web Developer with a passion for designing order
 
 - I believe in seeking the good way in life, loving your neighbor as yourself, and loving our Creator.
 - I'm also a musician and recording artist and music instructor on the side
-- I am currently finishing up my time at Lambda School, where I've learned so much about frontend, backend, and writing algorithms in Python.
+- I am a graduate of Lambda School's Full Stack Web Development program, where I've learned so much about frontend, backend, and writing algorithms in Python.
 
 - 📫 How to reach me: gjwilson7390@gmail.com
 <!--
